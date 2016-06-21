@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+
+# app builds
+app/build/
+
+# signature files
+signature/
